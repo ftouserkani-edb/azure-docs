@@ -75,7 +75,7 @@ Follow these instructions to create a support request by using **Usage + quota**
 
     ![Select usage and quotas](./media/networking-quota-request/select-usage-plus-quotas.png)
 
-1. In the upper right corner, select **Request increase**.
+1. At the top in the middle , select **Request increase**.
 
     ![Request increase](./media/networking-quota-request/request-increase-from-subscription.png)
 
